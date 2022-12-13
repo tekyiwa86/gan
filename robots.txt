@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://static-origin.gannett.com/sitemap.xml
