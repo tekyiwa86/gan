@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://static-origin.gannett.com/</loc>
+    <lastmod>2022-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://static-origin.gannett.com/rtp-slot/</loc>
+    <lastmod>2022-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://static-origin.gannett.com/bandarqq/</loc>
+    <lastmod>2022-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://static-origin.gannett.com/dominoqq/</loc>
+    <lastmod>2022-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>http://static-origin.gannett.com/dominoqq/terima.gif</image:loc>
+        <image:title>DominoQQ</image:title>
+      </image:image>
+  </url>
+</urlset>
